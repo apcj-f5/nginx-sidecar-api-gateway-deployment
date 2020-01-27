@@ -1,4 +1,4 @@
-# F5 API Protection, NGINX+ API GW and NGINX+ Sidecar
+# F5 BIG-IP API Protection, NGINX+ API GW and NGINX+ Sidecar
 
 ## Topology
 <img src=https://github.com/fbchan/api-protect-gw-sidecar/blob/master/Overview1.png alt="Overview1" width=1000>
